@@ -1,2 +1,2 @@
 # ctat-log-converter
-Test repository
+Test repository with theme.
