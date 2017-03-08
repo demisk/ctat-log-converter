@@ -6,3 +6,5 @@ Download the converter [here](http://ctat.pact.cs.cmu.edu/downloads/ctat-log-con
 
 > Note:  
 > Requires a Java runtime (JRE).
+
+[Home](index.html)
