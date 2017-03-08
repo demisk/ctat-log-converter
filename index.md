@@ -7,6 +7,6 @@ bulk of the XML can be transported inside another XML element. This _XML-within-
 very difficult for a human to read. The CTAT Disk Log Converter "unescapes" the XML and provides 
 some reasonable spacing to make the XML format easier to read. 
 
-[Install](install.html)
-[Run](run.html)
+* [Install](install.html) the converter.
+* [Run](run.html) the converter.
 
