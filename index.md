@@ -1,8 +1,5 @@
----
-layout: page
-title: CTAT Disk Log Converter
-description: Blah
----
+CTAT Disk Log Converter
+
 
 
 Use the CTAT Disk Log Converter to convert a CTAT disk log to a more readable XML format.
