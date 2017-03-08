@@ -2,6 +2,5 @@
 
 No installation is needed. The converter is an executable JAR file. 
 
-> Note:
-> 
+> Note:  
 > Requires a Java runtime (JRE).
