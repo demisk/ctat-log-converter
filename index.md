@@ -1,4 +1,4 @@
-<h1>CTAT Disk Log Converter</h1>
+# CTAT Disk Log Converter
 
 Use the CTAT Disk Log Converter to convert a [CTAT](http://ctat.pact.cs.cmu.edu/) disk log to a more readable XML format.
 
