@@ -1,6 +1,6 @@
-##Installing##
+<h2>Installing</h2>
 
-The converter is an executable JAR file. 
+No installation is needed. The converter is an executable JAR file. 
 
 > Note:
 > 
